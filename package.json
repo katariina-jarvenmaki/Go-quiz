@@ -1,0 +1,15 @@
+{
+  "name": "golang-app",
+  "version": "1.0.0",
+  "description": "A simple Golang app",
+  "main": "app.js",
+  "scripts": {
+    "start": "go app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "license": "MIT",
+  "author": "Kajan Creative",
+  "copyright": "Copyright (C) 2024 Kajan Creative. All Rights Reserved."
+}
