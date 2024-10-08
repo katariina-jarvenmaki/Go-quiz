@@ -1,18 +1,3 @@
-// ----------------------------------------------------------------------------
-// Company Name: Kajan Creative
-// Copyright (C) 2024 Kajan Creative. All Rights Reserved.
-//
-// This file is the property of Kajan Creative.
-// Unauthorized copying, distribution, or modification of this file,
-// via any medium, is strictly prohibited unless expressly permitted
-// by Kajan Creative.
-//
-// Usage of this file requires prior authorization from Kajan Creative.
-// If you have not been granted permission, do not use, modify, or distribute.
-//
-// For inquiries, contact: [info@kajancreative.com]
-// ----------------------------------------------------------------------------
-
 package main
 
 import "fmt"
